@@ -1,5 +1,3 @@
-![screencapture-toema04-github-io-Modern-HooBank-2024-10-12-21_37_03](https://github.com/user-attachments/assets/caedcea8-cc22-4530-addc-85e5b925392b)#Modern HooBank Project
-
 ##Overview
 This project is a modern web application designed to showcase a next-generation payment method. It emphasizes ease of use, quick processing, and secure transactions for users looking for the best card deals and payment solutions. The design is sleek and optimized for a great user experience, leveraging advanced technologies like Vite.js, Tailwind CSS, and JavaScript.
 
@@ -20,7 +18,7 @@ JavaScript: Core logic and interactions are handled using vanilla JavaScript.
 ##Installation
 To run this project locally, follow these steps:
 Clone the repository:
-git clone https://github.com/yourusername/Modern-HooBank.git
+git clone https://github.com/Toema04/Modern-HooBank.git
 Navigate to the project directory:
 cd Modern-HooBank
 Install the dependencies:
