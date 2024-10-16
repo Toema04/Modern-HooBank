@@ -1,3 +1,7 @@
+
+![image_3](https://github.com/user-attachments/assets/886f927b-5828-4981-a304-df1b6a3ab1a1)
+![image_2](https://github.com/user-attachments/assets/27ea0bd7-9394-496f-b67a-91894632713f)
+
 ##Overview
 This project is a modern web application designed to showcase a next-generation payment method. It emphasizes ease of use, quick processing, and secure transactions for users looking for the best card deals and payment solutions. The design is sleek and optimized for a great user experience, leveraging advanced technologies like Vite.js, Tailwind CSS, and JavaScript.
 
@@ -26,9 +30,6 @@ npm install
 Run the development server:
 npm run dev
 The project should now be running on localhost:3000.
-
-![image_3](https://github.com/user-attachments/assets/886f927b-5828-4981-a304-df1b6a3ab1a1)
-![image_2](https://github.com/user-attachments/assets/27ea0bd7-9394-496f-b67a-91894632713f)
 
 ##License
 This project is licensed under the MIT License - see the LICENSE file for details.
